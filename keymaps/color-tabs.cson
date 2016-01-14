@@ -8,5 +8,5 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-workspace':
-  'ctrl-alt-a': 'color-tabs:color-current-tab'
-  'ctrl-alt-x': 'color-tabs:uncolor-current-tab'
+  'ctrl-alt-shift-a': 'color-tabs:color-current-tab'
+  'ctrl-alt-shift-z': 'color-tabs:uncolor-current-tab'
